@@ -1,0 +1,11 @@
+kagglehub
+pandas
+ipywidgets
+plotly
+nbformat
+sklearn
+skikit-learn
+mealpy
+LGBMClassifier
+xgboost
+streamlit
